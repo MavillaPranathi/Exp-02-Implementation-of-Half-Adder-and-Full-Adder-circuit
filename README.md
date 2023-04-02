@@ -66,7 +66,8 @@ endmodule
 
 ### Logic symbol 
 
-![image](https://user-images.githubusercontent.com/118343610/229344729-a40d1036-746e-479c-8e86-264fac6ba616.png)
+![image](https://user-images.githubusercontent.com/118343610/229346909-4f866e82-f416-49ad-a125-d1d1bf758cc2.png)
+
 
 ### Output:
 ### RTL
