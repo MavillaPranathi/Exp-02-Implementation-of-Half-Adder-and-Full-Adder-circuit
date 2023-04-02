@@ -66,6 +66,7 @@ endmodule
 
 ### Logic symbol 
 
+![image](https://user-images.githubusercontent.com/118343610/229347539-60b70d4b-70dd-454f-9a38-e82d04364f65.png)
 
 
 
