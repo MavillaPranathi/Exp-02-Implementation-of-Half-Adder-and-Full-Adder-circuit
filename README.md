@@ -65,17 +65,17 @@ or (co,e,f);
 endmodule
 
 ### Logic symbol 
-
-![image](https://user-images.githubusercontent.com/118343610/229347539-60b70d4b-70dd-454f-9a38-e82d04364f65.png)
-
+![image](https://user-images.githubusercontent.com/118343610/229414515-80564d10-4855-43f0-a061-ca1e999d0cb8.png)
 
 
 ### Output:
 ### RTL
 1) For HALF ADDER:
+![Screenshot (9) (3)](https://user-images.githubusercontent.com/118343610/229414645-f2f99dd6-62c0-4618-b45c-0930b8546da1.png)
 
 
 2) For FULL ADDER:
+![image](https://user-images.githubusercontent.com/118343610/229414668-4e377a59-8b68-4d6f-9034-f6e2698e5616.png)
 
 
 ### TIMING DIAGRAM
@@ -83,18 +83,21 @@ endmodule
 
 
 
+
 2) For FULL ADDER:
 
+![image](https://user-images.githubusercontent.com/118343610/229414928-f355740b-9f95-4dc2-af76-ea97a7df9a55.png)
 
 
 ### TRUTH TABLE
 FOR HALF ADDER:
 
-
+![image](https://user-images.githubusercontent.com/118343610/229415009-13fc766a-8227-4795-b2f3-87740fd7b207.png)
 
 
 FOR FULL ADDER:
 
+![image](https://user-images.githubusercontent.com/118343610/229415065-504ca044-402c-4ffd-9776-5f845485f093.png)
 
 ### Result:
 Thus half adder and full adder circuit is successfully designed and verified its truth table
